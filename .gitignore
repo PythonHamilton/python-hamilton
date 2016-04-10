@@ -3,7 +3,7 @@
 *.sublime-workspace
 
 # virtualenv
-env
+pyhamenv
 
 # python
 .python-version

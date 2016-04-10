@@ -1,5 +1,5 @@
 from flask.ext.script import Manager
-from boilerplate import create_app
+from python_hamilton import create_app
 
 
 manager = Manager(create_app)
